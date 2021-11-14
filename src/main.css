@@ -1,0 +1,26 @@
+
+.title {
+    font-size: 65px;
+    color:#FF0040;
+}
+
+
+h2 {
+    background-color : #607d8b;
+    width: 15%;
+    color: #ffffff;
+    padding-left: 30px;
+
+}
+
+.highlight{
+    background-color: #409d8b;
+    font-size: 60px;
+    width: 15em;
+
+}
+
+#navigation {
+    background-color: #409d5a;
+    font-size: 30px;
+}
